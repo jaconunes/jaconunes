@@ -1,6 +1,6 @@
 ## Oi! Eu sou o Jackson Nunes 👋
 
-- 🌱 Estudando Framework Spring Boot do Java
+- 🌱 1º Semestre de Engenharia de Software | Apaixonado por Java / Back End
 - Em busca da minha primeira oportunidade na área de tecnologia
 
 ##
