@@ -1,7 +1,6 @@
 ## Oi! Eu sou Jackson Nunes 👋
 
-- 🌱 2º Semestre de Engenharia de Software | Desenvolvedor Delphi | Java
-- Estágio Desenvolvimento Delphi | SCI Sistemas
+- 🌱 7º Semestre de Engenharia de Software | Desenvolvedor Delphi | Java
 
 ##
 
